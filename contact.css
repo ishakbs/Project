@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #292727;
+    font-family: 'poppins',sans-serif;
+}
+h1{
+    color: white;
+    margin-left: 150px;
+    font-size: 62px;
+}
+.Email{
+    display: flex;
+    color: white;
+    margin-left: 150px;
+    margin-right:200px ;
+    font-size: 20px;
+    justify-content: space-between;
+}
+.w{
+    display: flex;
+    color: white;
+    margin-left: 150px;
+    margin-right:220px;
+    margin-top: 60px;
+    font-size: 20px;
+    justify-content: space-between;
+}
+.social-media{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 150px;
+    margin-top: 150px;
+    font-size: 1.5em;
+}
+#fb{
+    max-width: 27px;
+    margin-left: 50px;
+}
+#insta{
+    max-width: 27px;
+    margin-left: 50px;
+}
+#dribbb{
+    max-width: 27px;
+    margin-left: 50px;
+}
+#be{
+    max-width: 27px;
+    margin-left: 50px;
+}
